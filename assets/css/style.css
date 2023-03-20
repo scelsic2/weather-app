@@ -1,0 +1,38 @@
+body {
+    background-color: #121212 !important;
+}
+
+.local-city-icon-div {
+    padding-top: 1em;
+}
+
+.local-city{
+    padding-right: .5em;
+}
+
+.forecast-h4-div{
+    padding-top: 1em;
+}
+
+.future-date-icon-div{
+    padding-top: 1em;
+}
+
+.future-date {
+    padding-right: .5em;
+}
+
+footer {
+    position: fixed !important;
+    bottom: 0 !important;
+    width: 100%;
+    color: white;
+    padding-bottom: 20px;
+  }
+
+  /* @media screen and (min-width: 576px) {
+    .future-date-container {
+        float: left;
+        width: 25%;
+    }
+  } */
