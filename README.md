@@ -32,13 +32,14 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
     ![alt text](assets/images/screenshot.png)
     ```
 
-## Credits
-
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+## Creditshum
+- https://www.flaticon.com/free-icons/sunrise
+- https://m2.material.io/design/color/dark-theme.html
+- https://www.w3schools.com/howto/howto_css_fixed_footer.asp
+- tutoring 20MAR2023
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/shift
+- https://www.toptal.com/designers/htmlarrows/math/degree-sign/
+- https://www.compart.com/en/unicode/U+0025
 
 ## License
 
@@ -48,6 +49,8 @@ The last section of a high-quality README file is the license. This lets other d
 
 Paste your deployed application link here.
 
-- https://www.flaticon.com/free-icons/sunrise
-- https://m2.material.io/design/color/dark-theme.html
-- https://www.w3schools.com/howto/howto_css_fixed_footer.asp
+<a href="https://www.flaticon.com/free-icons/night" title="night icons">Night icons created by Freepik - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/cloud-computing" title="cloud computing icons">Cloud computing icons created by Freepik - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/fog" title="fog icons">Fog icons created by Pixel perfect - Flaticon</a>
