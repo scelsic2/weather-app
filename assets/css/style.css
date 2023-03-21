@@ -2,11 +2,11 @@ body {
     background-color: #121212 !important;
 }
 
-.local-city-icon-div {
+.current-city-icon-div {
     padding-top: 1em;
 }
 
-.local-city{
+.current-city{
     padding-right: .5em;
 }
 
@@ -20,6 +20,14 @@ body {
 
 .future-date {
     padding-right: .5em;
+}
+
+.hide-me {
+    display: none !important;
+}
+
+.show-me {
+    display: block !important;
 }
 
 footer {
