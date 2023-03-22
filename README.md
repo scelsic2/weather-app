@@ -21,15 +21,16 @@ Then the user can type into the "Search for a city!" field and click "Search" in
 - https://www.flaticon.com/free-icons/sunrise
 - https://m2.material.io/design/color/dark-theme.html
 - https://www.w3schools.com/howto/howto_css_fixed_footer.asp
+- office hours 20MAR2023
 - tutoring 20MAR2023
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/shift
 - https://www.toptal.com/designers/htmlarrows/math/degree-sign/
 - https://www.compart.com/en/unicode/U+0025
-- "https://www.flaticon.com/free-icons/night"
+- https://www.flaticon.com/free-icons/night
 - https://www.flaticon.com/free-icons/cloud-computing
 - https://www.flaticon.com/free-icons/fog
 - https://www.w3schools.com/jsref/jsref_split.asp
-- tutor 21MAR2023
+- tutoring 21MAR2023
 - https://www.flaticon.com/free-icons/rain
 - https://www.flaticon.com/free-icons/storm
 - https://www.flaticon.com/free-icons/snowflake
