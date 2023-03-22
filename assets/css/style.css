@@ -9,6 +9,10 @@ body {
 .current-city{
     padding-right: .5em;
 }
+/* https://stackoverflow.com/questions/3087975/how-to-change-the-cursor-into-a-hand-when-a-user-hovers-over-a-list-item */
+li {
+    cursor: pointer;
+}
 
 .forecast-h4-div{
     padding-top: 1em;

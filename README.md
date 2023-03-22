@@ -1,38 +1,23 @@
-# <Your-Project-Title>
+# Weather or Not
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+This weather app displays current local weather and a 5-day forecast of the current location.  Search for a city, and the app will populate data regarding current weather for that city and a 5-day forecast for that city.  The app displays the user's most recent 5 searches, so they can click on one to view weather data for that city again.
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+N/A
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Once the page loads, the user is presented with local weather data.
+![local weather and 5-day forecast for Town 'n' Country, Florida](./assets/images/screenshot1.png)
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+Then the user can type into the "Search for a city!" field and click "Search" in order to search for a city's weather.  The last 5 searches will also remain on the page so that the user can click on a previously-searched city to re-populate that weather data.
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+![current and future weather for Salt Lake City, Utah](./assets/images/screenshot2.png)
 
-## Creditshum
+## Credits
 - https://www.flaticon.com/free-icons/sunrise
 - https://m2.material.io/design/color/dark-theme.html
 - https://www.w3schools.com/howto/howto_css_fixed_footer.asp
@@ -40,17 +25,20 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/shift
 - https://www.toptal.com/designers/htmlarrows/math/degree-sign/
 - https://www.compart.com/en/unicode/U+0025
+- "https://www.flaticon.com/free-icons/night"
+- https://www.flaticon.com/free-icons/cloud-computing
+- https://www.flaticon.com/free-icons/fog
+- https://www.w3schools.com/jsref/jsref_split.asp
+- tutor 21MAR2023
+- https://www.flaticon.com/free-icons/rain
+- https://www.flaticon.com/free-icons/storm
+- https://www.flaticon.com/free-icons/snowflake
+- https://stackoverflow.com/questions/3087975/how-to-change-the-cursor-into-a-hand-when-a-user-hovers-over-a-list-item
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+MIT License
 
 ## Deployed Application Link
 
 Paste your deployed application link here.
-
-<a href="https://www.flaticon.com/free-icons/night" title="night icons">Night icons created by Freepik - Flaticon</a>
-
-<a href="https://www.flaticon.com/free-icons/cloud-computing" title="cloud computing icons">Cloud computing icons created by Freepik - Flaticon</a>
-
-<a href="https://www.flaticon.com/free-icons/fog" title="fog icons">Fog icons created by Pixel perfect - Flaticon</a>
